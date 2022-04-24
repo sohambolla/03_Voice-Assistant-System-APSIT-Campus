@@ -46,3 +46,8 @@ The system provides proper security and reduces the manual work.
 •	Free and Fast Delivery 
 
 •	More Advanced Feature
+
+
+Our project is only a humble venture to satisfy the needs of the user. The main aim of the project is to create a user-friendly software to provide plants to customers without having to leave their home. It facilitates the user to purchase plants according to his/her/their need time and availability. Several user-friendly techniques like cart and payment gateway are added. Plants varying from over six different categories are available. The plants can be selected and added to the cart and purchased all at once.
+We made the tedious job of purchasing plants by visiting local nurseries easier by our software which connect the customer directly to the merchant. In our project we have overcome these problems and tried to create and lead to an errorless software. The software can be helpful for consumers as well as merchants. In future we are trying to add more features for the same.
+
