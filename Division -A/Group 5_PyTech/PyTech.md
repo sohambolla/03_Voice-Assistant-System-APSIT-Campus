@@ -1,7 +1,6 @@
 # PyTech
 ## _Your Search stops here_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 
 PyTech is a Django based & mobile-ready e-commerce website. 
@@ -14,7 +13,6 @@ PyTech is a Django based & mobile-ready e-commerce website.
 - Forgot Password Functionality
 - Real-time Payment Implementation Using PayPal API
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 
 > The overriding design goal for PyTech is
@@ -25,7 +23,6 @@ PyTech is a Django based & mobile-ready e-commerce website.
 > get their favourite product from their home 
 > without travelling anywhere else.
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 
 ## Technology Stack
