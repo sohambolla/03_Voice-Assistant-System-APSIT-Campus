@@ -1,6 +1,3 @@
-[submodule "Division -B/MedAlthea"]
-	path = Division -B/MedAlthea
-	url = https://github.com/yadavgulshan/MedAlthea
 [submodule "Division -B/10_E-PHARMACY-SERVICE/MedAlthea"]
 	path = Division -B/10_E-PHARMACY-SERVICE/MedAlthea
 	url = https://github.com/yadavgulshan/MedAlthea
