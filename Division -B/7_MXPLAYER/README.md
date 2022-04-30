@@ -23,16 +23,27 @@ on their similarity.
 ### Features:
 
 1.SignUp and SignIn option.
+
 2.Play song, view detailed information of song.
+
 3.Search songs.
+
 4.Create new playlist.
+
 5 Add/Remove songs to/from playlist.
+
 6 Add/Remove songs to/from favourites. 
+
 7.Scroll through recently played/viewed songs.
+
 8.Multitasking
+
 9.song download
+
 10.playback speed
+
 11.Interactive  GUI
+
 12.Supports various music formats including .mp3, WMA etc.
 
 
